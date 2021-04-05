@@ -1,3 +1,3 @@
 ## This is my resume; it's generated with LaTeX!
 
-I graciously borrowed the LaTeX styling from the user [Murat Can Karacabey](https://github.com/muratcankaracabey/latex_cv).
+This LaTeX styling has been graciously borrowed from [Murat Can Karacabey](https://github.com/muratcankaracabey/latex_cv) and modified for my own purposes.

@@ -149,6 +149,10 @@ Position: & \@claimedposition \\
     \mbox { \scshape \hspace{1.2em} \footnotesize #1}\\[0.05cm]
 }
 
+\newcommand{\projectbox}[1]{%
+    \mbox { \scshape \hspace{1.2em} \footnotesize #1}\\[0.05cm]
+}
+
 \newcommand{\explanationdetail}[1]{%
     \indent \begin{minipage}{0.96\linewidth} \footnotesize #1 \end{minipage} \\[0.1cm]
 }
