@@ -166,6 +166,10 @@ Position: & \@claimedposition \\
   \indent \explanationdetail{\hspace{4ex} #2}
 }
 
+\newcommand{\addtext}[1]{%
+  \indent \explanationdetail{\hspace{4ex} #1}
+}
+
 \newcommand\createskill[2]{%
     \textsc{\textbf{#1}} & #2
 }
